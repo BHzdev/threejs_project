@@ -35,7 +35,7 @@ const Home = () => {
               {...headContentAnimation}
               className="flex flex-col gap-5"
             >
-              <p className="max-w-md font-normal text-gray-600 text-base">
+              <p className="max-w-md font-normal text-neutral-900 text-base">
                 Crie sua camisa única e exclusiva com nossa nova ferramenta de
                 personalização 3D. <strong>Liberte a sua imaginação</strong> e
                 defina o seu próprio estilo.
